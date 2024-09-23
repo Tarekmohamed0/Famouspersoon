@@ -40,35 +40,35 @@ dependencies:
   cupertino_icons: ^1.0.8
   flutter_svg: ^2.0.10+1
   flutter_bloc: ^8.1.6
-  freezed_annotation: ^2.4.4
-  freezed: ^2.5.7
-  json_annotation: ^4.9.0
-  json_serializable: ^6.8.0
+  # freezed_annotation: ^2.4.4
+  # freezed: ^2.5.7
+  # json_annotation: ^4.9.0
+  # json_serializable: ^6.8.0
   dio: ^5.6.0
-  retrofit: ^4.2.0
+  # retrofit: ^4.2.0
   logger: ^2.4.0
-  get_it: ^7.6.1
+  # get_it: ^7.6.1
   pretty_dio_logger: ^1.4.0
   intl: ^0.19.0
   flutter_native_splash: ^2.4.1
-  easy_localization: ^3.0.7
-  retrofit_generator: ^8.2.0
-  flutter_screenutil: ^5.9.3
-  audioplayers: ^6.1.0
+  # easy_localization: ^3.0.7
+  # retrofit_generator: ^8.2.0
+  # flutter_screenutil: ^5.9.3
+  # audioplayers: ^6.1.0
   flutter_slidable: ^3.1.1
   slide_to_act: ^2.0.2
   shimmer: ^3.0.0
   skeletonizer: ^1.4.2
   sliding_up_panel: ^2.0.0+1
-  equatable: ^2.0.5
-  firebase_core: ^3.4.0
-  firebase_auth: ^5.2.0
-  awesome_snackbar_content: ^0.1.4
-  cloud_firestore: ^5.4.0
+  # equatable: ^2.0.5
+  # firebase_core: ^3.4.0
+  # firebase_auth: ^5.2.0
+  # awesome_snackbar_content: ^0.1.4
+  # cloud_firestore: ^5.4.0
   flutter_staggered_grid_view: ^0.7.0
-  remove_bg: ^0.0.3
-  hive: ^2.2.3
-  hive_flutter: ^1.1.0
+  # remove_bg: ^0.0.3
+  # hive: ^2.2.3
+  # hive_flutter: ^1.1.0
   photo_view: ^0.15.0
   path_provider: ^2.1.4
   font_awesome_flutter: ^10.7.0
